@@ -76,7 +76,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-## 🏆 `sys.milestones()` — System Milestones
+## 🏆 Milestones & Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/REPOSITORIES-13_ACTIVE-00f0ff?style=for-the-badge&logo=github&labelColor=0d0d1a&logoColor=00f0ff" alt="Repositories" />
@@ -91,8 +91,8 @@
 ## 📂 `sys.projects()` — High-Priority Deployments
 
 <p align="center">
-  <a href="https://github.com/adarsh0044321/beacon_pulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=adarsh0044321&repo=beacon_pulse&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00f0ff&icon_color=ff007f&text_color=e0e0e6" alt="Beacon Pulse" width="48%" />
+  <a href="https://github.com/adarsh0044321/beacon-pulse">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=adarsh0044321&repo=beacon-pulse&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00f0ff&icon_color=ff007f&text_color=e0e0e6" alt="Beacon Pulse" width="48%" />
   </a>
   <a href="https://github.com/adarsh0044321/focusflow">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=adarsh0044321&repo=focusflow&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff007f&icon_color=00f0ff&text_color=e0e0e6" alt="FocusFlow" width="48%" />
@@ -103,7 +103,7 @@
 
 | Project | Type | Description | Primary Engine | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| 🛰️ **[Beacon Pulse](https://github.com/adarsh0044321/beacon_pulse)** | Desktop App | Low-latency LAN screen sharing, remote streaming, control and collaboration system for Windows. | `Rust` `WinAPI` `Tokio` | `Active` |
+| 🛰️ **[Beacon Pulse](https://github.com/adarsh0044321/beacon-pulse)** | Desktop App | Low-latency LAN screen sharing, remote streaming, control and collaboration system for Windows. | `Rust` `WinAPI` `Tokio` | `Active` |
 | 🧠 **[FocusFlow](https://github.com/adarsh0044321/focusflow)** | AI Assistant | AI-powered educational assistant featuring OCR, local AI model integration, and intelligent problem solving. | `Python` `PyQt5` `OpenAI` | `Active` |
 | 👁️ **[Copy Checker](#)** | CV Engine | Automated answer-sheet evaluation system leveraging computer vision and neural AI models. | `Python` `OpenCV` `TensorFlow` | `In Development` |
 
