@@ -1,12 +1,14 @@
 # 🌌 adarsh0044321 / README.md
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=slice&color=050515&height=260&section=header&text=ADARSH%20KUMAR%20SINGH&fontSize=50&fontAlign=50&fontColor=00f0ff&fontAlignY=40&desc=%E2%96%B2%20CYBERNETIC%20SYSTEMS%20DEVELOPER%20%E2%96%B2&descAlignY=65&descAlign=50&descSize=15&descColor=ff007f" width="100%" />
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=36&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=90&lines=ADARSH+KUMAR+SINGH;SYSTEMS+DEVELOPER" alt="ADARSH KUMAR SINGH" />
+  </a>
+</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Building+Next-Gen+AI+Applications;Crafting+High-Performance+Rust+Systems;Designing+Automations+%26+DevTools;System+Design+%26+Productivity+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=650&height=40&lines=Building+Next-Gen+AI+Applications;Crafting+High-Performance+Rust+Systems;Designing+Automations+%26+DevTools;System+Design+%26+Productivity+Software" alt="Typing SVG" />
   </a>
 </p>
 
@@ -74,12 +76,12 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-## 🏆 `sys.trophies()` — System Milestones
+## 🏆 `sys.milestones()` — System Milestones
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adarsh0044321&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Github Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/REPOSITORIES-13_ACTIVE-00f0ff?style=for-the-badge&logo=github&labelColor=0d0d1a&logoColor=00f0ff" alt="Repositories" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-brightgreen?style=for-the-badge&logo=statuspage&labelColor=0d0d1a&logoColor=brightgreen" alt="Status" />
+  <img src="https://img.shields.io/badge/GRADE-CLASS_12-7b2cbf?style=for-the-badge&logo=education&labelColor=0d0d1a&logoColor=7b2cbf" alt="Education" />
 </p>
 
 <p align="center">
@@ -90,10 +92,10 @@
 
 <p align="center">
   <a href="https://github.com/adarsh0044321/beacon_pulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh0044321&repo=beacon_pulse&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00f0ff&icon_color=ff007f&text_color=e0e0e6" alt="Beacon Pulse" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=adarsh0044321&repo=beacon_pulse&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00f0ff&icon_color=ff007f&text_color=e0e0e6" alt="Beacon Pulse" width="48%" />
   </a>
   <a href="https://github.com/adarsh0044321/focusflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh0044321&repo=focusflow&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff007f&icon_color=00f0ff&text_color=e0e0e6" alt="FocusFlow" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=adarsh0044321&repo=focusflow&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff007f&icon_color=00f0ff&text_color=e0e0e6" alt="FocusFlow" width="48%" />
   </a>
 </p>
 
@@ -113,11 +115,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adarsh0044321&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=00f0ff&icon_color=ff007f&text_color=e0e0e6" alt="Adarsh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh0044321&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=ff007f&text_color=e0e0e6" alt="Adarsh's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh0044321&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=ff007f&text_color=e0e0e6" alt="Adarsh's Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh0044321&hide_border=true&background=0d0d1a&title=00f0ff&ring=ff007f&fire=ff007f&currStreakLabel=ff007f&currStreakNum=ffffff&sideNums=ffffff&sideLabels=e0e0e6" alt="Adarsh's Streak Stats" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adarsh0044321&hide_border=true&background=0d0d1a&title=00f0ff&ring=ff007f&fire=ff007f&currStreakLabel=ff007f&currStreakNum=ffffff&sideNums=ffffff&sideLabels=e0e0e6" alt="Adarsh's Streak Stats" width="97%" />
 </p>
 
 <p align="center">
@@ -130,6 +132,13 @@
 
 ## 🐍 `sys.grid()` — Contribution History
 
+> [!NOTE]  
+> Once you configure and trigger your workflow, a dynamic compilation snake will render below!
+
+<details>
+<summary><b>🛠️ System Configuration: Generate Contribution Snake in 3 Steps</b></summary>
+
+### Live Preview (will activate after first run)
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarsh0044321/adarsh0044321/output/github-contribution-grid-snake-dark.svg">
@@ -138,12 +147,7 @@
   </picture>
 </p>
 
-> [!NOTE]  
-> The grid snake represents compilation activity dynamically compiled every 24 hours. See configuration instructions below to initialize on your repository.
-
-<details>
-<summary><b>🛠️ System Configuration: Generate Contribution Snake in 3 Steps</b></summary>
-
+### Setup Steps
 1. Create a workflow file in your profile repository at `.github/workflows/snake.yml`.
 2. Paste the following configuration into the file:
 
