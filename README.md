@@ -129,7 +129,7 @@
 
 ### Live Preview Demonstration
 <p align="center">
-  <img alt="Github Contribution Grid Snake" src="https://raw.githubusercontent.com/Platane/snk/master/assets/snake.gif" width="97%">
+  <img alt="Github Contribution Grid Snake" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="97%">
 </p>
 
 ### Setup Steps
@@ -197,8 +197,4 @@ jobs:
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=code&theme=tokyonight" alt="Tech Quotes" width="80%" />
-</p>
-
-<p align="center">
-  <sub>Generated with Cybernetic Terminal System v2.2.6 &bull; Ready for deployment.</sub>
 </p>
