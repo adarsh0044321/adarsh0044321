@@ -127,13 +127,9 @@
 <details>
 <summary><b>🛠️ System Configuration: Generate Contribution Snake in 3 Steps</b></summary>
 
-### Live Preview (will activate after first run)
+### Live Preview Demonstration
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarsh0044321/adarsh0044321/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarsh0044321/adarsh0044321/output/github-contribution-grid-snake.svg">
-    <img alt="Github Contribution Grid Snake" src="https://raw.githubusercontent.com/adarsh0044321/adarsh0044321/output/github-contribution-grid-snake.svg" width="97%">
-  </picture>
+  <img alt="Github Contribution Grid Snake" src="https://raw.githubusercontent.com/Platane/snk/master/assets/snake.gif" width="97%">
 </p>
 
 ### Setup Steps
