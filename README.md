@@ -90,17 +90,6 @@
 
 ## 📂 `sys.projects()` — High-Priority Deployments
 
-<p align="center">
-  <a href="https://github.com/adarsh0044321/beacon-pulse">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin?username=adarsh0044321&repo=beacon-pulse&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00f0ff&icon_color=ff007f&text_color=e0e0e6" alt="Beacon Pulse" width="48%" />
-  </a>
-  <a href="https://github.com/adarsh0044321/focusflow">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin?username=adarsh0044321&repo=focusflow&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff007f&icon_color=00f0ff&text_color=e0e0e6" alt="FocusFlow" width="48%" />
-  </a>
-</p>
-
-<br>
-
 | Project | Type | Description | Primary Engine | Status |
 | :--- | :--- | :--- | :--- | :--- |
 | 🛰️ **[Beacon Pulse](https://github.com/adarsh0044321/beacon-pulse)** | Desktop App | Low-latency LAN screen sharing, remote streaming, control and collaboration system for Windows. | `Rust` `WinAPI` `Tokio` | `Active` |
@@ -114,8 +103,8 @@
 ## 📊 `sys.metrics()` — Analytical Readouts
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=adarsh0044321&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=00f0ff&icon_color=ff007f&text_color=e0e0e6" alt="Adarsh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=adarsh0044321&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=ff007f&text_color=e0e0e6" alt="Adarsh's Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh0044321&theme=tokyonight" alt="Adarsh's GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh0044321&theme=tokyonight" alt="Adarsh's Top Languages" width="48%" />
 </p>
 
 <p align="center">
