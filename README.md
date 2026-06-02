@@ -76,7 +76,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-## 🏆 Milestones & Achievements
+## 🏆 `sys.milestones()` — Core Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/REPOSITORIES-13_ACTIVE-00f0ff?style=for-the-badge&logo=github&labelColor=0d0d1a&logoColor=00f0ff" alt="Repositories" />
@@ -196,5 +196,10 @@ jobs:
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=code&theme=tokyonight" alt="Tech Quotes" width="80%" />
+  <code><b>// SYSTEM DECREE OF THE DAY</b></code><br>
+  <code>"Simplicity is the soul of efficiency. The best systems are those that do one thing elegantly and automate the rest."</code>
 </p>
+
+<br>
+
+<p align="center">
