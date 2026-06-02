@@ -196,10 +196,7 @@ jobs:
 ---
 
 <p align="center">
-  <code><b>// SYSTEM DECREE OF THE DAY</b></code><br>
-  <code>"Simplicity is the soul of efficiency. The best systems are those that do one thing elegantly and automate the rest."</code>
+  <img src="https://quotes-github-readme.vercel.app/api?type=code&theme=tokyonight" alt="Tech Quotes" width="80%" />
 </p>
-
-<br>
 
 <p align="center">
