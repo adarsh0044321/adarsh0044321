@@ -54,12 +54,12 @@ My primary technical focus is on systems programming with **Rust** and **C++**, 
 
 <br>
 
-### 👁️ [Copy Checker](https://github.com/adarsh0044321/copychecker)
-> **Automated answer-sheet evaluation system leveraging computer vision and deep learning models.**
+### 📄 [MarkFlow](https://github.com/adarsh0044321/markflow)
+> **AI-powered answer sheet scanning and evaluation platform with OCR, red-ink detection, and academic record digitization.**
 >
-> - **Core Technologies:** `Python` | `OpenCV` | `TensorFlow` | `NumPy`
-> - **Current Status:** Prototyping & Research
-> - **Key Innovation:** Built a custom image processing pipeline that corrects scan perspectives, filters alignment markers, and utilizes deep convolutional networks to grade bubble sheets and handwriting with **over 95% classification accuracy**.
+> - **Core Technologies:** `Kotlin` | `Jetpack Compose` | `OpenCV` | `TensorFlow Lite` | `Room`
+> - **Current Status:** Production Shipped (v1.0.0)
+> - **Key Innovation:** Built an on-device Android scanner app with native JNI-based perspective deskew, real-time accelerometer tilt-guides, and local quantized TFLite models verifying handwritten grades with secure SQLite audit trails.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -69,7 +69,7 @@ My primary technical focus is on systems programming with **Rust** and **C++**, 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,mongodb,git,github,html,css,tailwind,vscode&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,kotlin,android,js,ts,react,nodejs,mongodb,git,github,html,css,tailwind,vscode&theme=dark" alt="My Skills" />
   </a>
 </p>
 
@@ -77,9 +77,9 @@ My primary technical focus is on systems programming with **Rust** and **C++**, 
 
 | Category | Skills & Technologies |
 | :--- | :--- |
-| **Languages** | Python, C++, TypeScript, JavaScript, HTML, CSS |
-| **Libraries & Frameworks** | React, Node.js, Tailwind CSS, PyQt5, OpenCV, TensorFlow |
-| **Tools & Platforms** | Git, GitHub, VS Code, Windows API (WinAPI), MongoDB |
+| **Languages** | Python, C++, Kotlin, TypeScript, JavaScript, HTML, CSS |
+| **Libraries & Frameworks** | Jetpack Compose, React, Node.js, Tailwind CSS, PyQt5, OpenCV, TensorFlow Lite |
+| **Tools & Platforms** | Android SDK, Room DB, Hilt, Git, GitHub, VS Code, Windows API (WinAPI), MongoDB |
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
