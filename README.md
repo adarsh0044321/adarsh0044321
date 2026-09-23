@@ -28,26 +28,27 @@ I am a first-year Computer Science & Engineering student at **Institute of Techn
 
 ### 🛠️ Core Skills & Toolkit
 
-Focused on building strong, lasting programming fundamentals:
+Focused on building strong programming fundamentals and real-world backend architectures:
 
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Primary Language** | `Java` (Core Java, OOP Concepts, Problem Solving) |
+| **Frameworks & Backend** | `Spring Boot 3`, REST APIs, `FastAPI` (Microservices) |
 | **Foundational Areas** | Object-Oriented Programming (OOP), Data Structures & Algorithms |
-| **Version Control & Tools**| `Git`, `GitHub`, `VS Code`, `IntelliJ IDEA` |
-| **Interests & Exploring** | System Design Basics, Desktop & Mobile Utilities, Developer Tooling |
+| **Version Control & Tools** | `Git`, `GitHub`, `VS Code`, `IntelliJ IDEA`, `Postman` |
 
 ---
 
-### 💡 Featured Explorations & Projects
+### 🏢 Featured Project: [HostelDesk](https://github.com/adarsh0044321/HostelDesk)
 
-A few personal projects and prototypes I've built while exploring software development:
+**AI-assisted collegiate housing issue-management platform with dual native Android apps, a Spring Boot 3 backend, and a FastAPI AI microservice.**
 
-- 🛰️ **[Beacon Pulse](https://github.com/adarsh0044321/beacon-pulse)** — A low-latency LAN screen sharing and remote desktop streaming utility for Windows.
-- 🧠 **[FocusFlow](https://github.com/adarsh0044321/focusflow)** — An educational assistant prototype integrating OCR and AI problem-solving features.
-- 📄 **[MarkFlow](https://github.com/adarsh0044321/markflow)** — A mobile answer-sheet evaluation and document scanning application.
+- 🚀 **Full-Stack Architecture:** Powered by a robust **Spring Boot 3 (Java)** backend, an intelligent **FastAPI** AI microservice, and dual native Android applications tailored for Students and Administrators.
+- 📦 **Official v1.0 Release:** Production-ready with direct APK downloads for both Student and Admin roles along with pre-seeded live test accounts.
+- 📑 **Enterprise Documentation:** Audited repository featuring 13 real-device screenshots, 3 operational flowcharts, and a comprehensive REST API directory.
+- 💡 **Real-World Campus Impact:** Solves everyday hostel and collegiate housing complaints through automated triage, real-time ticket tracking, and administrative resolution workflows.
 
-> *I enjoy taking on challenging projects to learn new technologies and understand how complex systems communicate.*
+> 🔗 **Explore Repository & Releases:** [github.com/adarsh0044321/HostelDesk](https://github.com/adarsh0044321/HostelDesk)
 
 ---
 
