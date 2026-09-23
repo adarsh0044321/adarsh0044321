@@ -19,7 +19,7 @@
 
 I am a first-year Computer Science & Engineering student at **Institute of Technical Education and Research (ITER), SOA University, Bhubaneswar**. I am deeply interested in software development, understanding core computer science principles, and building useful tools.
 
-- 🎓 **Academics:** Pursuing B.Tech in CSE (Class of 2028) at ITER.
+- 🎓 **Academics:** Pursuing B.Tech in CSE (Batch of 2026–2030) at ITER.
 - ☕ **Current Focus:** Deepening my understanding of **Java**, Object-Oriented Programming (OOP), and foundational **Data Structures & Algorithms**.
 - 🛠️ **Workflow:** Actively using **Git & GitHub** for version control and clean code collaboration.
 - 🎯 **Goal:** Looking to actively contribute to technical campus clubs, build impactful team projects, and continuously learn from peers and seniors.
