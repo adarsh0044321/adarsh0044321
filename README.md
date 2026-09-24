@@ -65,5 +65,5 @@ Focused on building strong programming fundamentals and real-world backend archi
 I'd love to connect with fellow students, club members, and developers:
 
 - 💼 **LinkedIn:** [Adarsh Kumar Singh](https://www.linkedin.com/in/adarsh-kumar-singh-166b76317/)
-- 🌐 **Portfolio:** [helloadarsh.netlify.app](https://adarshkumarsinghjai.netlify.app/)
+- 🌐 **Portfolio:** [adarshkumarsinghjai.netlify.app/](https://adarshkumarsinghjai.netlify.app/)
 - 📧 **Direct Email:** [adarshkumarsingh004@gmail.com](mailto:adarshkumarsingh004@gmail.com)
