@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar-singh-166b76317/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://helloadarsh.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://adarshkumarsinghjai.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshkumarsingh004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adarsh0044321)
 
@@ -65,5 +65,5 @@ Focused on building strong programming fundamentals and real-world backend archi
 I'd love to connect with fellow students, club members, and developers:
 
 - 💼 **LinkedIn:** [Adarsh Kumar Singh](https://www.linkedin.com/in/adarsh-kumar-singh-166b76317/)
-- 🌐 **Portfolio:** [helloadarsh.netlify.app](https://helloadarsh.netlify.app/)
+- 🌐 **Portfolio:** [helloadarsh.netlify.app](https://adarshkumarsinghjai.netlify.app/)
 - 📧 **Direct Email:** [adarshkumarsingh004@gmail.com](mailto:adarshkumarsingh004@gmail.com)
