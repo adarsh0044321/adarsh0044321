@@ -39,7 +39,22 @@ Focused on building strong programming fundamentals and real-world backend archi
 
 ---
 
-### 🏢 Featured Project: [HostelDesk](https://github.com/adarsh0044321/HostelDesk)
+### 🚀 Featured Projects
+
+#### 🍽️ [CanteenCue ITER](https://github.com/adarsh0044321/canteencue-iter)
+
+**AI-assisted college canteen food decision engine & multi-outlet dining platform for ITER campus students.**
+
+- ⚡ **Hybrid AI Architecture:** Combines Google Gemini Flash with a custom deterministic rule engine for sub-second, zero-downtime, and 100% catalog-grounded meal recommendations.
+- 🍱 **Multi-Outlet Integration:** Full coverage of 6 on-campus outlets (279+ verified dishes with portion pricing, prep times, and dietary boundaries).
+- 🧠 **Smart Decision Features:** NLP preference extraction (budget, time constraints, cravings), smart combo pairing (dish + beverage), voice input (Web Speech API), and Instagram-style account switching.
+- 🛡️ **Zero Hallucination & Robustness:** Verified against 2,000+ automated stress tests and 36 unit/scenario tests with Supabase PostgreSQL cloud sync & 7-day IndexedDB privacy pruning.
+
+> 🔗 **Live Demo:** [canteencue-iter.pages.dev](https://canteencue-iter.pages.dev) | **Repository:** [github.com/adarsh0044321/canteencue-iter](https://github.com/adarsh0044321/canteencue-iter)
+
+<br/>
+
+#### 🏢 [HostelDesk](https://github.com/adarsh0044321/HostelDesk)
 
 **AI-assisted collegiate housing issue-management platform with dual native Android apps, a Spring Boot 3 backend, and a FastAPI AI microservice.**
 
