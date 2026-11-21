@@ -33,9 +33,9 @@ Focused on building strong programming fundamentals and real-world backend archi
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Primary Language** | `Java` (Core Java, OOP Concepts, Problem Solving) |
-| **Frameworks & Backend** | `Spring Boot 3`, REST APIs, `FastAPI` (Microservices) |
+| **Frameworks & Backend** | REST APIs, `FastAPI` (Microservices) |
 | **Foundational Areas** | Object-Oriented Programming (OOP), Data Structures & Algorithms |
-| **Version Control & Tools** | `Git`, `GitHub`, `VS Code`, `IntelliJ IDEA`, `Postman` |
+| **Version Control & Tools** | `Git`, `GitHub`, `Postman` |
 
 ---
 
